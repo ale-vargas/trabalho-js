@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Formulário com Dropdown Dinâmico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form>
+        <label for="categoria">Categoria:</label>
+        <select id="categoria" onchange="atualizarSubcategoria()">
+            <option value="">Selecione uma categoria</option>
+            <option value="frutas">Frutas</option>
+            <option value="legumes">Legumes</option>
+            <option value="bebidas">Bebidas</option>
+        </select>
+
+        <br><br>
+
+        <label for="subcategoria">Subcategoria:</label>
+        <select id="subcategoria">
+            <option value="">Selecione uma subcategoria</option>
+        </select>
+    </form>
+</body>
+<script src="script.js"></script>
+</html>

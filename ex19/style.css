@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#desenhoCanvas {
+    border: 2px solid black;
+    cursor: crosshair;
+}

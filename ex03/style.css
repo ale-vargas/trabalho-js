@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+
+#txtForm {
+    width: 200px;
+}
+
+#botaoEnviar {
+    width: 100px;
+}

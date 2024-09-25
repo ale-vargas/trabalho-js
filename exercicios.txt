@@ -1,0 +1,20 @@
+Manipulação de Documento: Crie uma página que contenha um parágrafo de texto e um botão. Ao clicar no botão, altere a cor do texto do parágrafo utilizando JavaScript.
+Eventos de Mouse: Desenvolva uma página com três imagens. Implemente um script onde passar o mouse sobre cada imagem a tornará maior, utilizando o evento onmouseover.
+Formulário Dinâmico: Construa uma página com um formulário que aceita o nome e a idade do usuário. Use JavaScript para validar se todos os campos foram preenchidos antes de submeter o formulário.
+Contador: Faça uma página com um botão que, ao ser clicado, incrementa um contador de cliques exibido na tela.
+Manipulação de CSS via JavaScript: Elabore uma página que contém um quadrado de cor sólida. Adicione botões que alteram a cor desse quadrado para outras cores utilizando JavaScript.
+Calculadora Simples: Crie uma página com uma calculadora simples que permita ao usuário somar, subtrair, multiplicar e dividir dois números.
+Animação com SetInterval: Desenvolva uma página que mova um elemento de um lado para o outro da tela utilizando setInterval.
+Manipulação de Arrays: Implemente uma página que permite ao usuário inserir elementos em um array e, em seguida, exiba esses elementos em uma lista na tela.
+Geração Dinâmica de Conteúdo: Crie uma página que permita ao usuário adicionar quantas caixas de texto desejar clicando em um botão.
+Uso de Data e Hora: Desenvolva uma página que mostre a data e a hora atualizadas em tempo real.
+Interação com Eventos de Teclado: Faça uma página que muda a cor de fundo da tela quando uma tecla específica é pressionada.
+LocalStorage: Crie uma página que permite ao usuário salvar um texto em LocalStorage e recuperá-lo mesmo após fechar o navegador.
+Fetch API: Implemente uma página que utiliza a Fetch API para obter dados de um serviço gratuito de API (como a API de previsão do tempo) e exiba os dados na página.
+Formulário com Dropdown Dinâmico: Crie uma página que contém um formulário com dois dropdowns. O segundo dropdown deve ser preenchido dinamicamente baseando-se na escolha do primeiro.
+Validação de Email: Desenvolva uma página com um campo de entrada para email e um botão que valida se o formato do email é válido ao ser clicado.
+Mudança de Estilos com Eventos: Elabore uma página com um texto e botões que mudam o tamanho da fonte desse texto (aumentar e diminuir).
+Tabulação entre Conteúdos: Implemente uma página com várias abas de conteúdo onde o usuário pode clicar em uma aba para exibir seu conteúdo associado, escondendo os outros.
+Reprodução de Mídia: Crie uma página que possui um vídeo embutido e botões para play, pause e stop.
+Desenho com Canvas: Desenvolva uma página que permite ao usuário desenhar em uma área de canvas com o mouse.
+Jogo Simples: Implemente uma página com um jogo simples de "Pedra, Papel e Tesoura" onde o usuário escolhe sua opção e o computador gera uma escolha aleatória.

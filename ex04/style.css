@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+#contador {
+    font-size: 24px;
+    margin-top: 20px;
+}
+#botaoContador {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
